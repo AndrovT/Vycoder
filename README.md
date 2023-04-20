@@ -1,4 +1,4 @@
-Experimental range encoding for [Vyxal](https://github.com/Vyxal/Vyxal).
+Experimental range coding for [Vyxal](https://github.com/Vyxal/Vyxal).
 
 ## Usage
 
