@@ -4,8 +4,8 @@ Experimental range encoding for [Vyxal](https://github.com/Vyxal/Vyxal).
 
 Encode Vyxal code:
 
-```poetry run encode "λ1>[∆Ǐḣvx₌∨∧ßu›:A∧]‹"```
+```poetry run encode [-v] <code>```
 
-Decode a binary string:
+Decode a bit string:
 
-```poetry run decode 1000010000000110000010011```
+```poetry run decode <string>```
